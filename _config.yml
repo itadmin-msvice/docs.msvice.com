@@ -1,8 +1,13 @@
 plugins:
   - jekyll-relative-links
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+
 relative_links:
   enabled: true
   collections: true
+
+remote_theme: pages-themes/minimal@v0.2.0
+
 include:
   - CONTRIBUTING.md
   - README.md
