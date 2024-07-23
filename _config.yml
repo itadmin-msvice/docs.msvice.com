@@ -1,7 +1,7 @@
 markdown: kramdown
 plugins:
 #  - jekyll-relative-links
-#  - jekyll-remote-theme # add this line to the plugins list if you already have one
+#  - jekyll-remote-theme
 
 # relative_links:
 #  enabled: true
