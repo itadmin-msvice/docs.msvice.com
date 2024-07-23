@@ -1,2 +1,2 @@
 # docs.msvice.com
-This is the msvice docs site using the minima theme from git docs with jackyll
+This is the msvice docs site using the minima theme from git docs with jekyll
