@@ -5,6 +5,7 @@ layout: post
 ---
 
 Used resources for docs
-* (https://github.com/jsanz/gh-pages-minima-starter/tree/master)
-* (https://github.com/jekyll/minima)
-* (https://jekyll.github.io/minima/)
+* [https://github.com/jsanz/gh-pages-minima-starter](https://github.com/jsanz/gh-pages-minima-starter)
+* [https://github.com/jsanz/gh-pages-minima-starter/tree/master](https://github.com/jsanz/gh-pages-minima-starter/tree/master)
+* [https://github.com/jekyll/minima](https://github.com/jekyll/minima)
+* [https://jekyll.github.io/minima/](https://jekyll.github.io/minima/)
