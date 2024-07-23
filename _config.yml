@@ -6,7 +6,7 @@ theme: minima
 
 # Minima social links
 #github_username: itadmin-msvice
-linkedin_username: klausharrernemecek
+linkedin_username: klaus-harrer-nemecek
 rss: rss
 
 # Minima: show excerpts in the frontpage
@@ -32,4 +32,3 @@ exclude:
     - LICENSE
     - README.md
 
-markdown: kramdown
