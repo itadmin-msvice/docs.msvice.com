@@ -8,9 +8,9 @@ plugins:
 
 # remote_theme: pages-themes/minimal@v0.2.0
 
-#include:
+include:
 #  - CONTRIBUTING.md
-#  - README.md
+  - README.md
 #  - LICENSE.md
 #  - COPYING.md
 #  - CODE_OF_CONDUCT.md
