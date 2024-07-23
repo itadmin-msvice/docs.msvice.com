@@ -1,20 +1,35 @@
-markdown: kramdown
-plugins:
-#  - jekyll-relative-links
-#  - jekyll-remote-theme
+title: msvice.com docs
+description: Documentation for the msvice.com demo site
+author: "Klaus Harrer-Nemecek"
 
-# relative_links:
-#  enabled: true
-#  collections: true
+theme: minima
 
-# remote_theme: pages-themes/minimal@v0.2.0
+# Minima social links
+#github_username: itadmin-msvice
+linkedin_username: klausharrernemecek
+rss: rss
+
+# Minima: show excerpts in the frontpage
+show_excerpts: true
+
+minima:
+  date_format: "%Y-%m-%d"
+
+# Minima: custom header links
+header_pages:
+  - _pages/frontpage.md
+  - _pages/about.md
+  - _pages/archive.md
 
 include:
-#  - CONTRIBUTING.md
-  - README.md
-#  - LICENSE.md
-#  - COPYING.md
-#  - CODE_OF_CONDUCT.md
-#  - CONTRIBUTING.md
-#  - ISSUE_TEMPLATE.md
-#  - PULL_REQUEST_TEMPLATE.md
+    - _pages
+
+exclude: 
+    - .gitignore
+    - docker-compose.yml
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+
+markdown: kramdown
