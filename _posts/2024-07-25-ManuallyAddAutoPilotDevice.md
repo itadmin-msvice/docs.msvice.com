@@ -13,9 +13,9 @@ To collect Autopilot information in OOBE, you can:
 
 # In Intune
 
-Step 1: Set up Windows automatic Intune enrollment
-Step 2: Register devices as Autopilot devices
-Step 3: Create a device group
-Step 4: Configure and assign Autopilot Enrollment Status Page (ESP)
-Step 5: Create and assign Autopilot profile
-Step 6: Deploy the device
+1. Step 1: Set up Windows automatic Intune enrollment
+1. Step 2: Register devices as Autopilot devices
+1. Step 3: Create a device group
+1. Step 4: Configure and assign Autopilot Enrollment Status Page (ESP)
+1. Step 5: Create and assign Autopilot profile
+1. Step 6: Deploy the device
